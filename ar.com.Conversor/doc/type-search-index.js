@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"services","l":"ConversorMoneda"},{"p":"services","l":"ConversorTemperatura"},{"p":"services","l":"ConversorTemperatura.EscalaTemperatura"},{"p":"main","l":"Main"},{"p":"services","l":"Menu"}];updateSearchResults();
